@@ -1,3 +1,5 @@
+
+FILEPATH = "Todos.txt"
 def get_todos(filepath="Todos.txt"):
     """Read a text file and return the list of to-do items
     of
